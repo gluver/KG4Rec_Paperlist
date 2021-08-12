@@ -6,9 +6,8 @@ This is a list of top papers about knowledge graph based recommendations.
 - [Survey paper](#Survey-Paper)
 - [Dataset](#dataset)
 - [Knowledge Graph](#Knowledge-Graph)
+- [Graph based Recommendation](#Graph-based-Recommendation)
 - [KG based Recommendation](#KG-based-Recommendation)
-
-
 
 ## Survey Paper
 
@@ -17,6 +16,12 @@ This is a list of top papers about knowledge graph based recommendations.
 ## Dataset
 
 ## Knowledge Graph
+
+## Graph based Recommendation
+
+* [Neural Graph Collaborative Filtering](https://arxiv.org/abs/1905.08108) (SIGIR19)
+* [LightGCN: Simplifying and Powering Graph Convolution Network for Recommendation](http://staff.ustc.edu.cn/~hexn/papers/sigir20-LightGCN.pdf) (SIGIR 20)
+* [Disentangled Graph Collaborative Filtering](http://staff.ustc.edu.cn/~hexn/papers/sigir20-DGCF.pdf) (SIGIR 20)
 
 ## KG based Recommendation
 
